@@ -2,10 +2,10 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://my-portfolio-weld-eta-67.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zeyad-elshenawy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeyadElshenawy)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([YOUR_KAGGLE_LINK](https://kaggle.com/zeyadelshenawy))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyadelshenawy1@gmail.com)
 
 </div>
@@ -55,11 +55,11 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 <div align="center">
   
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeyadElshenawy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadElshenawy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeyadElshenawy&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
@@ -151,7 +151,7 @@ I'm always open to collaborating on interesting data science and machine learnin
 
 📧 **Email:** zeyadelshenawy1@gmail.com  
 📱 **Phone:** +20 102 869 7404  
-🌐 **Portfolio:** [View My Work](YOUR_PORTFOLIO_LINK)
+🌐 **Portfolio:** [View My Work]([YOUR_PORTFOLIO_LIN](https://my-portfolio-weld-eta-67.vercel.app/)K)
 
 **"Transforming data into insights, one algorithm at a time"** 🚀
 
@@ -161,6 +161,6 @@ I'm always open to collaborating on interesting data science and machine learnin
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ZeyadElshenawy&color=blueviolet&style=flat-square)
 
 </div>
