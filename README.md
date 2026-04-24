@@ -2,10 +2,10 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://my-portfolio-weld-eta-67.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zeyad-elshenawy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-weld-eta-67.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-elshenawy)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeyadElshenawy)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([YOUR_KAGGLE_LINK](https://kaggle.com/zeyadelshenawy))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/zeyadelshenawy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeyadelshenawy1@gmail.com)
 
 </div>
@@ -67,30 +67,21 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 ## 🚀 Featured Projects
 
-### 🔬 Brain Tumor Classification App
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](YOUR_REPO_LINK)
+### 🔬 Brain Tumor Classification — The Magnificent Three
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/mohaaHeiba/the-magnificent-three)
 
-Medical imaging application that processes MRI scans and predicts tumor presence using Convolutional Neural Networks (CNN). Developed with TensorFlow/Keras on a labeled brain MRI dataset, achieving high accuracy in classification with real-time image upload and prediction capabilities.
+Cross-platform application for brain tumor classification from MRI scans (Meningioma, Glioma, Pituitary). Team project — I owned the ML pipeline, training and tuning six classical models (SVC, Random Forest, Logistic Regression, KNN, Decision Tree, Naive Bayes) and exposing them via a Flask inference API consumed by a Flutter desktop app and Streamlit dashboard.
 
-**Tech Stack:** Python, TensorFlow, Keras, CNN, Image Processing
-
----
-
-### 📊 End-to-End Data Pipeline & ML Project
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](YOUR_REPO_LINK)
-
-Built a comprehensive data pipeline in Microsoft Fabric with PySpark to automate data ingestion, cleaning, and transformation. Applied feature engineering and developed machine learning algorithms to extract business insights, demonstrating integration of data engineering and ML in a digital transformation context.
-
-**Tech Stack:** PySpark, Microsoft Fabric, Machine Learning, Feature Engineering
+**Tech Stack:** Python, scikit-learn, Flask, Flutter, Streamlit
 
 ---
 
-### 📉 HR Analytics Dashboard (DataCamp Case Study)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](YOUR_REPO_LINK)
+### 📉 HR Analytics Dashboard (Atlas Labs)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/hr-analytics-dashboard)
 
-Interactive HR analytics dashboard in Power BI tracking employee attrition, hiring trends, and workforce demographics. Implemented advanced DAX measures for calculating attrition by tenure, department-level metrics, and turnover rates to enable data-driven HR decision-making.
+Power BI dashboard on the Atlas Labs HR dataset (1,470 employees) across four executive views — Overview, Demographics, Performance Tracker, and Attrition. Built on a star-schema data model with DAX measures for attrition rate, tenure cohorts, and rating time-intelligence.
 
-**Tech Stack:** Power BI, DAX, Power Query, Data Visualization
+**Tech Stack:** Power BI, DAX, Power Query, Data Modeling
 
 ---
 
@@ -151,7 +142,7 @@ I'm always open to collaborating on interesting data science and machine learnin
 
 📧 **Email:** zeyadelshenawy1@gmail.com  
 📱 **Phone:** +20 102 869 7404  
-🌐 **Portfolio:** [View My Work]([YOUR_PORTFOLIO_LIN](https://my-portfolio-weld-eta-67.vercel.app/)K)
+🌐 **Portfolio:** [View My Work](https://my-portfolio-weld-eta-67.vercel.app/)
 
 **"Transforming data into insights, one algorithm at a time"** 🚀
 
