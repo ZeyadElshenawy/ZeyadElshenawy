@@ -10,11 +10,17 @@
 
 </div>
 
+> [!TIP]
+> ### 🌐 [Visit my live portfolio →](https://my-portfolio-weld-eta-67.vercel.app/)
+> **Glassmorphism** in light mode · **terminal/matrix** in dark mode — toggle between them. Built with Astro + compiled Tailwind, deployed on Vercel.
+
+---
+
 ## 📊 About Me
 
 Results-driven **Data Scientist** with expertise in building end-to-end data pipelines, developing machine learning models, and creating interactive dashboards. Currently pursuing a Bachelor's in Computer Science (Software Engineering) at King Salman International University with a 3.8 GPA. Proficient in Python, SQL, Power BI, and Deep Learning frameworks with hands-on experience in digital transformation projects. Passionate about transforming raw data into actionable insights through advanced analytics and AI-driven solutions.
 
-🎓 **Education:** B.Sc. Computer Science - King Salman International University (GPA: 3.8)  
+🎓 **Education:** B.Sc. Computer Science — King Salman International University (GPA 3.8)  
 📍 **Location:** Cairo, Egypt  
 🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer opportunities
 
@@ -36,6 +42,7 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Databases & Big Data
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,6 +53,8 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 ### Tools & Technologies
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white)
 
@@ -106,7 +115,7 @@ Power BI dashboard on the Atlas Labs HR dataset (1,470 employees) across four ex
 ## 💼 Professional Experience
 
 ### 🔄 Digital Transformation Intern | Almansour Automotive
-*August 2025 | Giza, Egypt*
+*August 2025 · Giza, Egypt* — [Certificate ↗](https://drive.google.com/file/d/1r9tqi6OWlP2_XQrcC5Roxa3Fraq0A6BC/view?usp=sharing)
 
 - Rotated across IT, SAP, Digital Transformation, and Network Security departments
 - Built data pipeline in Microsoft Fabric with PySpark for ML-driven insights
@@ -114,32 +123,47 @@ Power BI dashboard on the Atlas Labs HR dataset (1,470 employees) across four ex
 - Collaborated on infrastructure management and data security initiatives
 
 ### 💻 Information Technology Intern | Arab Organization for Industrialization
-*July 2024 | Cairo, Egypt*
+*July 2024 · Cairo, Egypt*
 
-- Completed IoT training covering sensors, microcontrollers, and practical applications
-- Gained hands-on experience with cloud infrastructure and deployment models
+- Completed [Internet of Things training (7 days)](https://drive.google.com/file/d/1ZE03YaHaeHq7BTm4o4JEWdvxuFJys7rx/view?usp=sharing) — sensors, microcontrollers, practical applications
+- Completed [Cloud Computing training (5 days)](https://drive.google.com/drive/folders/1aKzwmLgJAEgvrWwyC10t6Dd-IJuXMdJQ?usp=sharing) — infrastructure and deployment models
 
 ---
 
 ## 🎓 Certifications & Training
 
-### WE Telecom Egypt - Training Academy
-- 🤖 AI Professional Level | Deep Learning & Computer Vision
-- 🎯 AI Associate Level | Machine Learning
+**19 verified certificates** across DataCamp, WE Telecom, MCIT/DEPI, and Coursera. Full list with verification links is on the [portfolio site](https://my-portfolio-weld-eta-67.vercel.app/#certifications).
 
-### DataCamp
-- 📊 Associate Data Scientist in Python (90 HR)
-- 📈 Associate Data Analyst in SQL (39 HR)
-- 🐍 Data Analyst in Python (36 HR)
-- 📉 Power BI Fundamentals (19 HR)
+### DataCamp — 14 tracks
+
+**Career tracks:**
+- 📊 [Associate Data Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/bd301feefedc66ab6876c15ab3f3d66ce79e117c) (90 hrs)
+- 🧬 [Machine Learning Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/0e0322e5c975f9732a4743154ff0a4ea0d5abba7) (85 hrs)
+- 🤖 [Associate AI Engineer for Data Scientists](https://www.datacamp.com/completed/statement-of-accomplishment/track/9aa442f8f784f6cdc26542338f6a192c611445a9) (40 hrs)
+- 📈 [Associate Data Analyst](https://www.datacamp.com/completed/statement-of-accomplishment/track/26b4480674edb968a8379c47bcc45dd5195d20b9) (39 hrs)
+- 📉 [Data Analyst](https://www.datacamp.com/completed/statement-of-accomplishment/track/c31053fa1a6c9fecb35fe28a23cee76c6db0adc1) (36 hrs)
+- 🐍 [Associate Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/ab21d3bd8187ef037093d9b6a550481457bad13c) (32 hrs)
+- 🐍 [Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/5f6dcd54740393e9c14d92b9390380f797052853) (28 hrs)
+- 🔬 [Data Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/367ca626806cd0f749cd1626e2f3c20157692d9b) (26 hrs)
+
+**Skill tracks:**
+- 🐍 [Python Data Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/c60605375c21950ad26a0032f58df1c5146d8bc9) (28 hrs)
+- 🗃️ [SQL Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/ca59bc7cb63cf42d02f99b53bae02805bf33f5bb) (26 hrs)
+- 📉 [Power BI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/4d171476a4eb91f2241dd4818c45ca9cc649d1ae) (17 hrs)
+- 🗃️ [SQL for Database Administrators](https://www.datacamp.com/completed/statement-of-accomplishment/track/cff96f6a9f95a3c27e714a54aae70efaa22c8170) (16 hrs)
+- 🤖 [Machine Learning Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/2adc84a3cc82ce6bc01239cadc45e1b2bc49096e) (16 hrs)
+- 🐍 [Python Programming Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/12f478da2938b14d1af1e1fd3a6d4d40a51847e3) (16 hrs)
+
+### WE Telecom Egypt — Training Academy
+- 🤖 [AI Professional Level — Deep Learning & Computer Vision](https://drive.google.com/file/d/1eqkde1X3q17eUBFuMCKfgGzt4wdGJ4QZ/view?usp=sharing) (40 hrs)
+
+### MCIT · Digital Egypt Pioneers Initiative (DEPI)
+- 📊 [AI & Data Science — Data Scientist Track](https://drive.google.com/file/d/1j7RXsZiYr8MfCafV9_MLUK_lY2rc5VD7/view?usp=sharing) (4 months)
 
 ### Coursera
-- ☕ Database Management with Java and SQL
-- 🤖 Applied Machine Learning in Python
-- 🧠 Neural Networks and Deep Learning
-
-### Digital Egypt Pioneers Initiative (MCIT - CLS)
-- 📊 IBM Data Scientist Track (June 2025 - Present)
+- 🧠 [Neural Networks and Deep Learning](https://coursera.org/verify/HYT51PF7WQGV) — *DeepLearning.AI*
+- 🤖 [Applied Machine Learning in Python](https://coursera.org/verify/BUYFU9ADFMIQ) — *University of Michigan*
+- ☕ [Database Management with Java and SQL](https://coursera.org/verify/3P34H669GT2I) — *Amazon*
 
 ---
 
@@ -158,9 +182,10 @@ I'm always open to collaborating on interesting data science and machine learnin
 
 <div align="center">
 
+🌐 **Portfolio:** [my-portfolio-weld-eta-67.vercel.app](https://my-portfolio-weld-eta-67.vercel.app/)  
 📧 **Email:** zeyadelshenawy1@gmail.com  
 💼 **LinkedIn:** [zeyad-elshenawy](https://www.linkedin.com/in/zeyad-elshenawy)  
-🌐 **Portfolio:** [View My Work](https://my-portfolio-weld-eta-67.vercel.app/)
+📅 **Book a call:** [calendly.com/zeyadelshenawy1](https://calendly.com/zeyadelshenawy1)
 
 **"Transforming data into insights, one algorithm at a time"** 🚀
 
