@@ -76,6 +76,15 @@ End-to-end customer segmentation on the UCI Online Retail dataset (~541K transac
 
 ---
 
+### 🧠 Stroke Prediction — Healthcare ML Pipeline
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/healthcare-prediction-depi)
+
+DEPI team capstone predicting stroke risk from clinical and lifestyle features on the Kaggle Stroke Prediction dataset (5,110 patients, 4.9% positive class). **My contribution: data cleaning & EDA**. The team's final class-weighted Logistic Regression reaches **84% recall on stroke cases** — the clinically important metric for a screening tool — via L1-regularized logistic regression with tuned decision threshold and a Flask REST API for serving.
+
+**Tech Stack:** Python, pandas, scikit-learn, Flask, MLflow, Jupyter
+
+---
+
 ### 🔬 Brain Tumor Classification — The Magnificent Three
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/the-magnificent-three)
 
