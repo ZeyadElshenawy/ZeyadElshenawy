@@ -141,7 +141,7 @@ I'm always open to collaborating on interesting data science and machine learnin
 <div align="center">
 
 📧 **Email:** zeyadelshenawy1@gmail.com  
-📱 **Phone:** +20 102 869 7404  
+💼 **LinkedIn:** [zeyad-elshenawy](https://www.linkedin.com/in/zeyad-elshenawy)  
 🌐 **Portfolio:** [View My Work](https://my-portfolio-weld-eta-67.vercel.app/)
 
 **"Transforming data into insights, one algorithm at a time"** 🚀
