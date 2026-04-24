@@ -67,8 +67,17 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 
 ## 🚀 Featured Projects
 
+### 🎯 Customer Segmentation — RFMT + K-Means Clustering
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/customer-segmentation-rfmt)
+
+End-to-end customer segmentation on the UCI Online Retail dataset (~541K transactions). Extends classical RFM with **Tenure** (RFMT), applies K-Means clustering (k=3 validated against k=4 via silhouette scores), and delivers three artifacts: a 13-section Jupyter analysis with cohort retention heatmaps, an interactive Power BI dashboard, and a Streamlit live predictor. Identified three actionable segments — **Champions**, **Promising**, **At Risk** — with a concrete marketing playbook per segment.
+
+**Tech Stack:** Python, scikit-learn, pandas, Plotly, Streamlit, Power BI
+
+---
+
 ### 🔬 Brain Tumor Classification — The Magnificent Three
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/mohaaHeiba/the-magnificent-three)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/the-magnificent-three)
 
 Cross-platform application for brain tumor classification from MRI scans (Meningioma, Glioma, Pituitary). Team project — I owned the ML pipeline, training and tuning six classical models (SVC, Random Forest, Logistic Regression, KNN, Decision Tree, Naive Bayes) and exposing them via a Flask inference API consumed by a Flutter desktop app and Streamlit dashboard.
 
