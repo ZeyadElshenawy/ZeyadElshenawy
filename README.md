@@ -18,7 +18,7 @@
 
 ## 📊 About Me
 
-Results-driven **Data Scientist** with expertise in building end-to-end data pipelines, developing machine learning models, and creating interactive dashboards. Currently pursuing a Bachelor's in Computer Science (Software Engineering) at King Salman International University with a 3.8 GPA. Proficient in Python, SQL, Power BI, and Deep Learning frameworks with hands-on experience in digital transformation projects. Passionate about transforming raw data into actionable insights through advanced analytics and AI-driven solutions.
+**Data Scientist / ML Engineer** building end-to-end data and AI pipelines — classical ML on tabular data, dashboards on top of star-schema models, and now LLM-driven applications with real evaluation suites behind every claim. Currently pursuing a B.Sc. in Computer Science (Software Engineering) at King Salman International University, GPA 3.8. Hands-on with Python, SQL, Power BI, scikit-learn, and the LangChain / Groq / Pydantic stack. Two internships in digital transformation and IT.
 
 🎓 **Education:** B.Sc. Computer Science — King Salman International University (GPA 3.8)  
 📍 **Location:** Cairo, Egypt  
@@ -50,9 +50,16 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
+### LLM & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Tools & Technologies
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -75,6 +82,23 @@ Results-driven **Data Scientist** with expertise in building end-to-end data pip
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 SmartCV — AI-powered Career Assistant
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/SmartCV)
+[![Tests](https://img.shields.io/badge/tests-337%20passing-brightgreen?style=flat-square)](https://github.com/ZeyadElshenawy/SmartCV#benchmarks--test-results)
+[![Coverage](https://img.shields.io/badge/coverage-53%25-yellow?style=flat-square)](https://github.com/ZeyadElshenawy/SmartCV#benchmarks--test-results)
+
+Full Django app — upload a CV, paste a JD, and get a gap analysis, an ATS-scored tailored resume, and an outreach-campaign plan paired with a Chrome extension. Backed by Groq llama-4-scout via LangChain through a centralized Pydantic-structured-output gateway. **Ships a real evaluation suite — every public number has a sample size and a re-run command.** Headline benchmarks (2026-04-25):
+
+- ATS scoring deterministic, matched-vs-mismatched **Cohen's d 6.27**
+- Gap analyzer coverage **0.999** (49/50 pairs at 100%)
+- Skill-extractor F1 **0.81** (hallucination_rate 0.24, after a prompt + JD-anchoring filter pass)
+- CV parser skills F1 **0.43** on CVs with explicit skills sections (after a PDF-noise sanitizer pass)
+- Endpoint warm p95 **≤ 13 ms**
+
+**Tech Stack:** Django 5.2, Python 3.12, Groq llama-4-scout, LangChain, Pydantic, PostgreSQL (Supabase + pgvector), Tailwind CSS v4, xhtml2pdf, Chrome Extension (manifest v3)
+
+---
 
 ### 🎯 Customer Segmentation — RFMT + K-Means Clustering
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/customer-segmentation-rfmt)
