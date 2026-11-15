@@ -18,28 +18,34 @@
 
 ## 📊 About Me
 
-**Junior Data Scientist / ML Engineer** focused on applied machine learning on tabular data: SQL and pandas for the data work, a simple baseline first, then gradient-boosted models and honest evaluation on imbalanced targets. B.Sc. in Computer Science (Software Engineering) from King Salman International University, **graduated July 2026, GPA 3.8**.
+Computer Science graduate looking for a junior data scientist or ML engineer role. Strongest in supervised learning on tabular data — feature engineering, gradient boosting and model evaluation — with a solid grounding in statistics and hypothesis testing. I also build LLM features and test them the same way I test models: against a baseline and a labelled dataset.
+
+B.Sc. in Computer Science (Software Engineering) from King Salman International University, **graduated July 2026, GPA 3.8**.
 
 📍 **Location:** Cairo, Egypt  
-🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer roles
 
 ---
 
 ## 🛠️ Skills
 
-**Core:**
+**Programming & data:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Machine learning:**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=microsoft&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 
-**Familiar with (coursework / certification level):** TensorFlow / Keras, PyTorch
+- **Models:** linear and logistic regression (L1/L2), KNN, Naive Bayes, SVM, decision trees, random forests, gradient boosting (LightGBM, CatBoost), K-Means, hierarchical clustering, DBSCAN, PCA, anomaly detection
+- **Evaluation:** time-based and k-fold validation, leakage checks, imbalanced metrics (PR-AUC, recall at a threshold), probability calibration (Brier score), hyperparameter search, learning curves
+- **ML engineering:** scikit-learn pipelines, SHAP, MLflow experiment tracking, model serving through a REST API (FastAPI), drift monitoring and retraining
+- **Deep learning:** TensorFlow / Keras, PyTorch; CNNs, transfer learning, attention and Transformers
+- **LLM applications:** structured outputs with Pydantic, LLM-as-judge and grounding checks, pgvector
+- **Statistics & maths:** descriptive statistics, probability distributions, hypothesis testing, confidence intervals, linear algebra, gradient-based optimisation
 
 ---
 
@@ -58,13 +64,13 @@
 ### ✈️ AeroPredict IO — Flight Departure Delay Prediction *(personal project, Oct 2026)*
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/AeroPredict-IO)
 
-Predicts whether a US domestic flight will depart 15+ minutes late, using only data available **2 hours before departure**. Trained on **5.4M flights** from the 50 busiest US airports in 2025.
+Predicts whether a US domestic flight leaves 15+ minutes late, using only data available **2 hours before departure**: **5.4M flights** at the 50 busiest US airports in 2025, joined with hourly airport weather.
 
-- Split train / validation / test **by date** and computed historical features only from earlier days, so the model never sees the future
-- Built a Carrier × Airport × Hour lookup baseline first. Schedule-only models couldn't beat it until I added traffic-density, weather and historical-delay features
-- Evaluated with **PR-AUC** because only about 1 in 5 flights is delayed. On an 885K-flight holiday holdout, LightGBM reached **PR-AUC 0.41 vs 0.36** for the baseline
+- Date-based train / validation / test split; historical delay rates are Bayes-smoothed and computed only from earlier days
+- A Carrier × Airport × Hour lookup table beat schedule-only models; runway-traffic and weather features are what moved past it. LightGBM reached **PR-AUC 0.41 vs 0.36** for the lookup on an 885K-flight Nov–Dec holdout
+- Alert threshold (0.21) set on validation F1 after rejecting the cost-optimal cut-off, which flagged over 65% of flights. Each prediction is served with SHAP explanations in about 15 ms
 
-**Stack:** Python, SQL, PostgreSQL, pandas, scikit-learn, LightGBM, CatBoost
+**Stack:** Python, SQL, PostgreSQL, LightGBM, CatBoost, scikit-learn, SHAP, FastAPI
 
 ---
 
@@ -134,16 +140,12 @@ Segmented customers of the UCI Online Retail dataset (~541K transactions) on Rec
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on interesting data science and machine learning projects, or discussing opportunities in AI and analytics!
-
 <div align="center">
 
 🌐 **Portfolio:** [my-portfolio-weld-eta-67.vercel.app](https://my-portfolio-weld-eta-67.vercel.app/)  
 📧 **Email:** zeyadelshenawy1@gmail.com  
 💼 **LinkedIn:** [zeyad-elshenawy](https://www.linkedin.com/in/zeyad-elshenawy)  
 📅 **Book a call:** [calendly.com/zeyadelshenawy1](https://calendly.com/zeyadelshenawy1)
-
-**"Transforming data into insights, one algorithm at a time"** 🚀
 
 </div>
 
