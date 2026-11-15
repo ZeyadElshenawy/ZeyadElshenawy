@@ -71,10 +71,6 @@
 
 <div align="center">
   
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeyadElshenawy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadElshenawy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZeyadElshenawy&theme=radical&hide_border=true&background=0D1117)
 
 </div>
@@ -82,6 +78,19 @@
 ---
 
 ## 🚀 Featured Projects
+
+### ✈️ AeroPredict IO — Flight Departure Delay Prediction
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/AeroPredict-IO)
+
+End-to-end ML system predicting whether a US domestic flight will depart ≥15 min late, scored at a strict **2-hours-before-departure cutoff** so dispatchers have time to act. Trained on **5.4M flights** (Top 50 US hubs, 2025) joined with ASOS airport weather, with a leakage-safe Bronze → Silver → Gold pipeline in PostgreSQL.
+
+- Beat a Carrier × Origin × Hour lookup-table baseline only after real feature engineering (runway traffic density, wind-gust shear, Bayes-smoothed historical priors)
+- **LightGBM champion on an 885K-flight prospective holdout** (Thanksgiving + December storms): PR-AUC **0.414** vs 0.358 baseline, ROC-AUC **0.692**
+- Served via **FastAPI** with per-prediction TreeSHAP explanations at **~15 ms** latency; threshold chosen from an explicit delay-cost vs alert-fatigue trade-off
+
+**Tech Stack:** Python, PostgreSQL, Docker Compose, LightGBM, CatBoost, scikit-learn, SHAP, FastAPI, pytest, ruff
+
+---
 
 ### 🤖 SmartCV — AI-powered Career Assistant
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/SmartCV)
@@ -158,25 +167,11 @@ Power BI dashboard on the Atlas Labs HR dataset (1,470 employees) across four ex
 
 **19 verified certificates** across DataCamp, WE Telecom, MCIT/DEPI, and Coursera. Full list with verification links is on the [portfolio site](https://my-portfolio-weld-eta-67.vercel.app/#certifications).
 
-### DataCamp — 14 tracks
-
-**Career tracks:**
-- 📊 [Associate Data Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/bd301feefedc66ab6876c15ab3f3d66ce79e117c) (90 hrs)
+### DataCamp — 14 tracks (~495 hrs)
 - 🧬 [Machine Learning Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/0e0322e5c975f9732a4743154ff0a4ea0d5abba7) (85 hrs)
+- 📊 [Associate Data Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/bd301feefedc66ab6876c15ab3f3d66ce79e117c) (90 hrs)
 - 🤖 [Associate AI Engineer for Data Scientists](https://www.datacamp.com/completed/statement-of-accomplishment/track/9aa442f8f784f6cdc26542338f6a192c611445a9) (40 hrs)
-- 📈 [Associate Data Analyst](https://www.datacamp.com/completed/statement-of-accomplishment/track/26b4480674edb968a8379c47bcc45dd5195d20b9) (39 hrs)
-- 📉 [Data Analyst](https://www.datacamp.com/completed/statement-of-accomplishment/track/c31053fa1a6c9fecb35fe28a23cee76c6db0adc1) (36 hrs)
-- 🐍 [Associate Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/ab21d3bd8187ef037093d9b6a550481457bad13c) (32 hrs)
-- 🐍 [Python Developer](https://www.datacamp.com/completed/statement-of-accomplishment/track/5f6dcd54740393e9c14d92b9390380f797052853) (28 hrs)
-- 🔬 [Data Scientist](https://www.datacamp.com/completed/statement-of-accomplishment/track/367ca626806cd0f749cd1626e2f3c20157692d9b) (26 hrs)
-
-**Skill tracks:**
-- 🐍 [Python Data Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/c60605375c21950ad26a0032f58df1c5146d8bc9) (28 hrs)
-- 🗃️ [SQL Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/ca59bc7cb63cf42d02f99b53bae02805bf33f5bb) (26 hrs)
-- 📉 [Power BI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/4d171476a4eb91f2241dd4818c45ca9cc649d1ae) (17 hrs)
-- 🗃️ [SQL for Database Administrators](https://www.datacamp.com/completed/statement-of-accomplishment/track/cff96f6a9f95a3c27e714a54aae70efaa22c8170) (16 hrs)
-- 🤖 [Machine Learning Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/2adc84a3cc82ce6bc01239cadc45e1b2bc49096e) (16 hrs)
-- 🐍 [Python Programming Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/12f478da2938b14d1af1e1fd3a6d4d40a51847e3) (16 hrs)
+- Plus 5 more career tracks (Data Analyst, Python Developer, …) and 6 skill tracks (SQL, Power BI, ML Fundamentals, …) — [full list ↗](https://my-portfolio-weld-eta-67.vercel.app/#certifications)
 
 ### WE Telecom Egypt — Training Academy
 - 🤖 [AI Professional Level — Deep Learning & Computer Vision](https://drive.google.com/file/d/1eqkde1X3q17eUBFuMCKfgGzt4wdGJ4QZ/view?usp=sharing) (40 hrs)
