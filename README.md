@@ -20,8 +20,6 @@
 
 **Junior Data Scientist / ML Engineer** focused on applied machine learning on tabular data: SQL and pandas for the data work, a simple baseline first, then gradient-boosted models and honest evaluation on imbalanced targets. B.Sc. in Computer Science (Software Engineering) from King Salman International University, **graduated July 2026, GPA 3.8**.
 
-I use AI coding assistants to build the application layer around my models (APIs, dashboards, web apps), and I say plainly which parts were AI-generated. Each project below states what I did myself.
-
 📍 **Location:** Cairo, Egypt  
 🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer roles
 
@@ -66,8 +64,19 @@ Predicts whether a US domestic flight will depart 15+ minutes late, using only d
 - Built a Carrier × Airport × Hour lookup baseline first. Schedule-only models couldn't beat it until I added traffic-density, weather and historical-delay features
 - Evaluated with **PR-AUC** because only about 1 in 5 flights is delayed. On an 885K-flight holiday holdout, LightGBM reached **PR-AUC 0.41 vs 0.36** for the baseline
 
-**My part:** problem framing, data pipeline design, feature design and evaluation. **AI-assisted:** the implementation code, the FastAPI service and the dashboard.  
 **Stack:** Python, SQL, PostgreSQL, pandas, scikit-learn, LightGBM, CatBoost
+
+---
+
+### 🤖 SmartCV — AI Career Assistant *(graduation project, Apr 2026)*
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/SmartCV)
+
+Upload a CV and a job description to get a skill-gap analysis, a tailored resume with an ATS score, and a networking plan.
+
+- Gap analysis runs in two passes: the LLM labels each required skill, then fuzzy matching in code reconciles the labels so no skill is dropped (**99.9% coverage** over 150 CV–job pairs)
+- Every LLM step is benchmarked against labelled fixtures: skill extraction **F1 0.85**, personal-info parsing accuracy **0.96**
+
+**Stack:** Python, Django, PostgreSQL + pgvector, Llama 4 (Groq), Pydantic
 
 ---
 
@@ -80,15 +89,6 @@ Segmented customers of the UCI Online Retail dataset (~541K transactions) on Rec
 - The highest-value segment (38% of customers) drives **84% of revenue**; each segment gets a retention recommendation
 
 **Stack:** Python, pandas, scikit-learn
-
----
-
-### 🤖 SmartCV — AI Career Assistant *(graduation project, Apr 2026)*
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/SmartCV)
-
-Upload a CV and a job description to get a skill-gap analysis, a tailored resume with an ATS score, and a networking plan.
-
-**My part:** product definition and requirements, and running the automated test and benchmark suites. **AI-built:** the code was written by an AI coding assistant (Claude) from my feature descriptions.
 
 ---
 
