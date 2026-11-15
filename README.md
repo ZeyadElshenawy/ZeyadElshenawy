@@ -18,52 +18,30 @@
 
 ## 📊 About Me
 
-**Data Scientist / ML Engineer** building end-to-end data and AI pipelines — classical ML on tabular data, dashboards on top of star-schema models, and now LLM-driven applications with real evaluation suites behind every claim. Currently pursuing a B.Sc. in Computer Science (Software Engineering) at King Salman International University, GPA 3.8. Hands-on with Python, SQL, Power BI, scikit-learn, and the LangChain / Groq / Pydantic stack. Two internships in digital transformation and IT.
+**Junior Data Scientist / ML Engineer** focused on applied machine learning on tabular data: SQL and pandas for the data work, a simple baseline first, then gradient-boosted models and honest evaluation on imbalanced targets. B.Sc. in Computer Science (Software Engineering) from King Salman International University, **graduated July 2026, GPA 3.8**.
 
-🎓 **Education:** B.Sc. Computer Science — King Salman International University (GPA 3.8)  
+I use AI coding assistants to build the application layer around my models (APIs, dashboards, web apps), and I say plainly which parts were AI-generated. Each project below states what I did myself.
+
 📍 **Location:** Cairo, Egypt  
-🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer opportunities
+🔍 **Seeking:** Entry-level Data Scientist or Machine Learning Engineer roles
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
-### Data Analysis & Visualization
+**Core:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Machine Learning & Deep Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-### Databases & Big Data
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### LLM & GenAI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Machine learning:**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=microsoft&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 
-### Tools & Technologies
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white)
+**Familiar with (coursework / certification level):** TensorFlow / Keras, PyTorch
 
 ---
 
@@ -79,87 +57,55 @@
 
 ## 🚀 Featured Projects
 
-### ✈️ AeroPredict IO — Flight Departure Delay Prediction
+### ✈️ AeroPredict IO — Flight Departure Delay Prediction *(personal project, Oct 2026)*
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/AeroPredict-IO)
 
-End-to-end ML system predicting whether a US domestic flight will depart ≥15 min late, scored at a strict **2-hours-before-departure cutoff** so dispatchers have time to act. Trained on **5.4M flights** (Top 50 US hubs, 2025) joined with ASOS airport weather, with a leakage-safe Bronze → Silver → Gold pipeline in PostgreSQL.
+Predicts whether a US domestic flight will depart 15+ minutes late, using only data available **2 hours before departure**. Trained on **5.4M flights** from the 50 busiest US airports in 2025.
 
-- Beat a Carrier × Origin × Hour lookup-table baseline only after real feature engineering (runway traffic density, wind-gust shear, Bayes-smoothed historical priors)
-- **LightGBM champion on an 885K-flight prospective holdout** (Thanksgiving + December storms): PR-AUC **0.414** vs 0.358 baseline, ROC-AUC **0.692**
-- Served via **FastAPI** with per-prediction TreeSHAP explanations at **~15 ms** latency; threshold chosen from an explicit delay-cost vs alert-fatigue trade-off
+- Split train / validation / test **by date** and computed historical features only from earlier days, so the model never sees the future
+- Built a Carrier × Airport × Hour lookup baseline first. Schedule-only models couldn't beat it until I added traffic-density, weather and historical-delay features
+- Evaluated with **PR-AUC** because only about 1 in 5 flights is delayed. On an 885K-flight holiday holdout, LightGBM reached **PR-AUC 0.41 vs 0.36** for the baseline
 
-**Tech Stack:** Python, PostgreSQL, Docker Compose, LightGBM, CatBoost, scikit-learn, SHAP, FastAPI, pytest, ruff
-
----
-
-### 🤖 SmartCV — AI-powered Career Assistant
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/SmartCV)
-[![Tests](https://img.shields.io/badge/tests-337%20passing-brightgreen?style=flat-square)](https://github.com/ZeyadElshenawy/SmartCV#benchmarks--test-results)
-[![Coverage](https://img.shields.io/badge/coverage-53%25-yellow?style=flat-square)](https://github.com/ZeyadElshenawy/SmartCV#benchmarks--test-results)
-
-Full Django app — upload a CV, paste a JD, and get a gap analysis, an ATS-scored tailored resume, and an outreach-campaign plan paired with a Chrome extension. Backed by Groq llama-4-scout via LangChain through a centralized Pydantic-structured-output gateway. **Ships a real evaluation suite — every public number has a sample size and a re-run command.** Headline benchmarks (2026-04-25):
-
-- ATS scoring deterministic, matched-vs-mismatched **Cohen's d 6.27**
-- Gap analyzer coverage **0.999** (49/50 pairs at 100%)
-- Skill-extractor F1 **0.81** (hallucination_rate 0.24, after a prompt + JD-anchoring filter pass)
-- CV parser skills F1 **0.43** on CVs with explicit skills sections (after a PDF-noise sanitizer pass)
-- Endpoint warm p95 **≤ 13 ms**
-
-**Tech Stack:** Django 5.2, Python 3.12, Groq llama-4-scout, LangChain, Pydantic, PostgreSQL (Supabase + pgvector), Tailwind CSS v4, xhtml2pdf, Chrome Extension (manifest v3)
+**My part:** problem framing, data pipeline design, feature design and evaluation. **AI-assisted:** the implementation code, the FastAPI service and the dashboard.  
+**Stack:** Python, SQL, PostgreSQL, pandas, scikit-learn, LightGBM, CatBoost
 
 ---
 
-### 🎯 Customer Segmentation — RFMT + K-Means Clustering
+### 🎯 Customer Segmentation — RFMT + K-Means *(Dec 2025)*
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/customer-segmentation-rfmt)
 
-End-to-end customer segmentation on the UCI Online Retail dataset (~541K transactions). Extends classical RFM with **Tenure** (RFMT), applies K-Means clustering (k=3 validated against k=4 via silhouette scores), and delivers three artifacts: a 13-section Jupyter analysis with cohort retention heatmaps, an interactive Power BI dashboard, and a Streamlit live predictor. Identified three actionable segments — **Champions**, **Promising**, **At Risk** — with a concrete marketing playbook per segment.
+Segmented customers of the UCI Online Retail dataset (~541K transactions) on Recency, Frequency, Monetary value and Tenure.
 
-**Tech Stack:** Python, scikit-learn, pandas, Plotly, Streamlit, Power BI
+- Log-transformed and standardized the features, then picked **K=3** with the elbow method and silhouette score (0.351 vs 0.298 for K=4)
+- The highest-value segment (38% of customers) drives **84% of revenue**; each segment gets a retention recommendation
 
----
-
-### 🧠 Stroke Prediction — Healthcare ML Pipeline
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/healthcare-prediction-depi)
-
-DEPI team capstone predicting stroke risk from clinical and lifestyle features on the Kaggle Stroke Prediction dataset (5,110 patients, 4.9% positive class). **My contribution: data cleaning & EDA**. The team's final class-weighted Logistic Regression reaches **84% recall on stroke cases** — the clinically important metric for a screening tool — via L1-regularized logistic regression with tuned decision threshold and a Flask REST API for serving.
-
-**Tech Stack:** Python, pandas, scikit-learn, Flask, MLflow, Jupyter
+**Stack:** Python, pandas, scikit-learn
 
 ---
 
-### 🔬 Brain Tumor Classification — The Magnificent Three
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/the-magnificent-three)
+### 🤖 SmartCV — AI Career Assistant *(graduation project, Apr 2026)*
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/SmartCV)
 
-Cross-platform application for brain tumor classification from MRI scans (Meningioma, Glioma, Pituitary). Team project — I owned the ML pipeline, training and tuning six classical models (SVC, Random Forest, Logistic Regression, KNN, Decision Tree, Naive Bayes) and exposing them via a Flask inference API consumed by a Flutter desktop app and Streamlit dashboard.
+Upload a CV and a job description to get a skill-gap analysis, a tailored resume with an ATS score, and a networking plan.
 
-**Tech Stack:** Python, scikit-learn, Flask, Flutter, Streamlit
-
----
-
-### 📉 HR Analytics Dashboard (Atlas Labs)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat-square&logo=github)](https://github.com/ZeyadElshenawy/hr-analytics-dashboard)
-
-Power BI dashboard on the Atlas Labs HR dataset (1,470 employees) across four executive views — Overview, Demographics, Performance Tracker, and Attrition. Built on a star-schema data model with DAX measures for attrition rate, tenure cohorts, and rating time-intelligence.
-
-**Tech Stack:** Power BI, DAX, Power Query, Data Modeling
+**My part:** product definition and requirements, and running the automated test and benchmark suites. **AI-built:** the code was written by an AI coding assistant (Claude) from my feature descriptions.
 
 ---
 
-## 💼 Professional Experience
+## 🧩 Other Work
+
+- **[Stroke Prediction](https://github.com/ZeyadElshenawy/healthcare-prediction-depi)**: DEPI team capstone. My part: data cleaning and EDA.
+- **[Brain Tumor Classification](https://github.com/ZeyadElshenawy/the-magnificent-three)**: university team project. My part: data processing and the ML models.
+- **[HR Analytics Dashboard](https://github.com/ZeyadElshenawy/hr-analytics-dashboard)**: Power BI practice project.
+
+---
+
+## 💼 Experience
 
 ### 🔄 Digital Transformation Intern | Almansour Automotive
 *August 2025 · Giza, Egypt* — [Certificate ↗](https://drive.google.com/file/d/1r9tqi6OWlP2_XQrcC5Roxa3Fraq0A6BC/view?usp=sharing)
 
-- Rotated across IT, SAP, Digital Transformation, and Network Security departments
-- Built data pipeline in Microsoft Fabric with PySpark for ML-driven insights
-- Analyzed ERP workflows in SAP for digital process optimization
-- Collaborated on infrastructure management and data security initiatives
-
-### 💻 Information Technology Intern | Arab Organization for Industrialization
-*July 2024 · Cairo, Egypt*
-
-- Completed [Internet of Things training (7 days)](https://drive.google.com/file/d/1ZE03YaHaeHq7BTm4o4JEWdvxuFJys7rx/view?usp=sharing) — sensors, microcontrollers, practical applications
-- Completed [Cloud Computing training (5 days)](https://drive.google.com/drive/folders/1aKzwmLgJAEgvrWwyC10t6Dd-IJuXMdJQ?usp=sharing) — infrastructure and deployment models
+- Rotated through the IT, SAP, Digital Transformation and Network Security departments, observing how a large automotive distributor runs its ERP and IT operations
 
 ---
 
@@ -183,15 +129,6 @@ Power BI dashboard on the Atlas Labs HR dataset (1,470 employees) across four ex
 - 🧠 [Neural Networks and Deep Learning](https://coursera.org/verify/HYT51PF7WQGV) — *DeepLearning.AI*
 - 🤖 [Applied Machine Learning in Python](https://coursera.org/verify/BUYFU9ADFMIQ) — *University of Michigan*
 - ☕ [Database Management with Java and SQL](https://coursera.org/verify/3P34H669GT2I) — *Amazon*
-
----
-
-## 🌟 Achievements & Activities
-
-- 🏆 GPA: 3.8/4.0 in Computer Science (Software Engineering)
-- 🌍 COP27 Youth Volunteer (via KSIU)
-- 💻 Active participant in IEEE, GDSC, and ICPC student communities
-- 🎓 Huawei ICT Academy participant
 
 ---
 
